@@ -155,6 +155,9 @@ docker pull xingfranics/cplusplusthings:latest
 - [引用与指针那些事](./basic_content/pointer_refer)
 - [宏那些事](./basic_content/macro)
 
+### 其他笔记
+- [C++ 外部链接性](./other_notes/C++外部链接性.md)
+
 ### 实战系列
 
 #### [10 日狂练](./practical_exercises/10_day_practice)
